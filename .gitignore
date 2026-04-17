@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+.venv/
+
+# Database files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+app.log
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Testing artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+
+# IDE
+.vscode/
+.idea/
