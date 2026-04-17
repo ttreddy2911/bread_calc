@@ -43,7 +43,7 @@ Built with **FastAPI + SQLite**, served alongside a dynamic **Vanilla JS** singl
 ![Tests](screenshots/Tests.png)
 
 ### GitHub Actions CI/CD Pipeline (Green ✅)
-![GitHub Actions](screenshots/GitHubActions.png)
+![GitHub Actions](screenshots/GitHubAction.png)
 
 ### Docker Hub — Image Published
 ![Docker Hub](screenshots/DockerHub.png)
