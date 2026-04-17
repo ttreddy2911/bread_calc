@@ -33,11 +33,8 @@ Built with **FastAPI + SQLite**, served alongside a dynamic **Vanilla JS** singl
 ### Browse & Read — Viewing Calculations
 ![Browse and Read](screenshots/browse_read.png)
 
-### Edit Calculation — Before
+### Edit Calculation
 ![Edit Step 1](screenshots/edit_1.png)
-
-### Edit Calculation — After Update
-![Edit Step 2](screenshots/edit_2.png)
 
 ### Negative Scenario — Error Handling
 ![Error Message](screenshots/error.png)
